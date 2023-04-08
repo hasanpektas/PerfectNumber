@@ -8,6 +8,6 @@ for i in range(1,number-1):
         sum += i
 
 if number == sum:
-    print("This is a super number!")
+    print("This is a perfect number!")
 else:
-    print("This is not a super number!")
+    print("This is not a perfect number!")
